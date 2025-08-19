@@ -1,4 +1,4 @@
-# Financial News Analysis
+# Financial News Analysis (February 2025 to August 2025)
 
 This project analyzes financial news articles to extract insights and visualize their potential impact on the stock market. It uses Natural Language Processing (NLP) techniques to perform sentiment analysis, named entity recognition, and generate word clouds from news headlines. An interactive dashboard is also provided to visualize the analysis results.
 
